@@ -1,4 +1,4 @@
-# FTL_SOH_estimation
+# FDA_SOH_estimation
 
 A full probability domain adaptation method for SOH estimation: "Ma et al. Estimating the State of Health for Lithium-ion Batteries: A Particle Swarm Optimization-Assisted Deep Domain Adaptation Approach"
 
