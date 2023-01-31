@@ -1,6 +1,6 @@
 # PS0_DDA_SOH_estimation
 
-A PSO-assisted deep domain adaptation method for SOH estimation: "Ma et al. Estimating the State of Health for Lithium-ion Batteries: A Particle Swarm Optimization-Assisted Deep Domain Adaptation Approach"
+The PyTorch implementation of the PSO-DDA method: "Ma et al. Estimating the State of Health for Lithium-ion Batteries: A Particle Swarm Optimization-Assisted Deep Domain Adaptation Approach"
 
 The file "SOH estimation.ipynb" based on Jupyter Notebook is used for SOH esitmation of lithium-ion batteries.
 
